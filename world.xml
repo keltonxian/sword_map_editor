@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312"?>
+<world>
+ <map id="1001" x="124" y="107" link0="5" door0="1" link1="-1" door1="0" link2="7" door2="3" link3="20" door3="2"/>
+ <map id="1" x="220" y="137" link0="9" door0="3" link1="1003" door1="3" link2="-1" door2="0" link3="4" door3="1"/>
+ <map id="2" x="63" y="181" link0="-1" door0="0" link1="-1" door1="0" link2="8" door2="3" link3="6" door3="2"/>
+ <map id="20" x="88" y="40" link0="-1" door0="0" link1="6" door1="3" link2="1001" door2="3" link3="-1" door3="0"/>
+ <map id="4" x="257" y="109" link0="9" door0="0" link1="1" door1="3" link2="-1" door2="2" link3="5" door3="0"/>
+ <map id="5" x="170" y="58" link0="4" door0="3" link1="1001" door1="0" link2="-1" door2="0" link3="-1" door3="0"/>
+ <map id="6" x="44" y="114" link0="-1" door0="0" link1="10" door1="3" link2="2" door2="3" link3="20" door3="1"/>
+ <map id="7" x="142" y="238" link0="9" door0="1" link1="8" door1="0" link2="-1" door2="0" link3="1001" door3="2"/>
+ <map id="8" x="57" y="220" link0="7" door0="1" link1="10" door1="2" link2="-1" door2="2" link3="2" door3="2"/>
+ <map id="9" x="297" y="207" link0="4" door0="0" link1="7" door1="0" link2="-1" door2="0" link3="1" door3="0"/>
+ <map id="10" x="-7" y="168" link0="-1" door0="0" link1="-1" door1="0" link2="8" door2="1" link3="6" door3="1"/>
+ <map id="1003" x="192" y="172" link0="-1" door0="0" link1="-1" door1="0" link2="-1" door2="0" link3="1" door3="1"/>
+</world>
